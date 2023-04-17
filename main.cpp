@@ -8,6 +8,6 @@ int main()
 {
     bit_set(coils, 31);
     cout << coils << endl;
-    cout << "cc" << endl;
+    cout << "ccccccccc" << endl;
     return 0;
 }
