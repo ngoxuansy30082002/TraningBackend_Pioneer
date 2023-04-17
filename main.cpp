@@ -8,5 +8,6 @@ int main()
 {
     bit_set(coils, 31);
     cout << coils << endl;
+    cout << "aloo" << endl;
     return 0;
 }
